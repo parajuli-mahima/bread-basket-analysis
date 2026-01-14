@@ -1,4 +1,4 @@
-# Bread Basket Analysis (Market Basket Analysis)
+# Bread Basket Analysis
 
 ##  Overview
 This project performs Market Basket Analysis on a bread basket
